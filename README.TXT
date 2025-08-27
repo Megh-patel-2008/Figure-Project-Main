@@ -44,4 +44,4 @@ to draw a picture. It can be used to experiment with coding.
 
 
 
-I changed the position and color of the circle
+Finished the little house on the green hill
