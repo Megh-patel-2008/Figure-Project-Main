@@ -7,7 +7,7 @@ import java.awt.*;
  * @version 7.0
  */
 
-public class Square
+public class Square_3
 {
     private int size;
     private int xPosition;
@@ -18,12 +18,12 @@ public class Square
     /**
      * Create a new square at default position with default color.
      */
-    public Square()
+    public Square_3()
     {
-        size = 200;
-        xPosition = 400;
-        yPosition = 150;
-        color = "blue";
+        size = 40;
+        xPosition = 450;
+        yPosition = 260;
+        color = "black";
         isVisible = true;
     }
 
