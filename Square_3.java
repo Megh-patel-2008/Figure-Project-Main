@@ -22,7 +22,7 @@ public class Square_3
     {
         size = 40;
         xPosition = 450;
-        yPosition = 260;
+        yPosition = 250;
         color = "black";
         isVisible = true;
     }
